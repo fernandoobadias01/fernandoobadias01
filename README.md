@@ -4,10 +4,10 @@
 
 ## explicações:
 
-# html 5:
+# HTML 5:
 #### HTML é a linguagem usada para estruturar e formatar o conteúdo de páginas da web. Ele organiza texto, imagens, links e outros elementos, permitindo a criação de sites navegáveis e interativos.
 
-# css 3:
+# CSS 3:
 #### CSS estiliza e organiza o layout das páginas web, tornando-as visualmente atraentes e responsivas.
 
 
