@@ -1,6 +1,8 @@
 # 👋 Olá, eu sou Obadias fernando e esse e o meu primeiro readme.
 ## Eu trabalho por enquanto com:
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt=""> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt=""> 
+<img src="https://img.shields.io/badge/javascript-1572B6?style=for-the-badge&logo=javascript&logoColor=Yellow" alt="">
 
 
 
@@ -12,5 +14,6 @@
 # CSS 3:
 #### CSS estiliza e organiza o layout das páginas web, tornando-as visualmente atraentes e responsivas.
 
-
+# JavaScript
+#### JavaScript é uma linguagem de programação usada principalmente para criar interatividade em sites, como animações, botões que respondem a cliques e formulários dinâmicos.
 
